@@ -1,6 +1,8 @@
 # myPythonRepository
 Getting Started with GitHub
 
-Thisis the beginning
+This is the beginning
+
+Change from MyDevelop branch
 
 
